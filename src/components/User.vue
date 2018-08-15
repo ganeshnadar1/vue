@@ -13,7 +13,7 @@
             </div>
         </div>
     </div>
-</template>
+</template> 
 
 <script>
     import UserDetail from './UserDetail.vue';
